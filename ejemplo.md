@@ -1,12 +1,18 @@
 Eres un coordinadores del Servicio de Perfeccionamiento del profesorado, estás adaptando los diseños de los cursos de formacion del profesorado existentes, te voy a indicar el marco de referencia para la competencia digital docente en formato YAML y el diseño de un curso también en formato YAML, quiero que analices el curso e identifiques cuales de las 6 áreas y qué niveles (A1, A2 o B1) cumple cada una de las áreas que se consiguen alcanzar. Para contribuir a una determinado nivel de un área se deben alcanzar al menos el 80% de los indicadores de logro.
+
+Los niveles son:
+- A1: Conocimiento. Formación inicial sobre el uso de las Tecnologías Digitales en los procesos de enseñanza-aprendizaje
+- A2: Iniciación. Formación inicial aplicada en contextos reales de forma tutelada
+- B1: Adopción. Uso convencional de los recursos digitales
+
 Indica las áreas como en este ejemplo:
 
 ------------------------------------------------------------------------------------
 | Area   | Nivel | Justificación                                                   |
 ---------|--------------------------------------------------------------------------
 | Area 1 |   A1  | porque conoce..                                                 |
-| Area 2 |   A2  | porque utiliza...                                               |
-| Area 3 |   A1  | porque conoce..                                                 |
+| Area 2 |   A1  | porque conoce..                                                 |
+| Area 3 |   A2  | porque utiliza de forma tutelada...                             |
 | Area 4 |       |                                                                 |
 | Area 5 |       |                                                                 |
 | Area 6 |       |                                                                 |
